@@ -1,0 +1,7 @@
+Could not find conda environment: hw4-part-1-nlp
+You can list all discoverable environments with `conda info --envs`.
+
+Traceback (most recent call last):
+  File "train_t5.py", line 5, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
